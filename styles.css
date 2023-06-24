@@ -31,7 +31,7 @@ body {
   transition: background-color 0.3s ease;
   font-size: 18px;
   color: #fff;
-  font-family: "Comic Sans MS", cursive;
+  font-family:"Arial", sans-serif;;
 }
 
 .tab button:hover {
